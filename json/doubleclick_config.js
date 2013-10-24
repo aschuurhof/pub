@@ -1,8 +1,9 @@
 [
 {
 "doubleclickEnabled":"true",
-"doubleclickDartSite":"android_test_app",
+"doubleClickStaticAdAppId":"android_test_app",
 "doubleclickKeyValues":"",
-"doubleclickUseExternalBrowser":"false"
+"doubleclickUseExternalBrowser":"false",
+"doubleClickStaticAdIsCoppaCompliant":true
 }
 ]
