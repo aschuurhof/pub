@@ -13,6 +13,6 @@
 		"omnitureOfflineTrackingEnabled" : "true",
 		"demdexEnabled" : "true",
 		"TVEEnabled" : "true",
-		"omnitureContextData" : ["v.dummyContext1","v.dummyContext2"]
+		"omnitureContextData" : [{"v.dummyContext1":"1"},{"v.dummyContext2":"2"}]
 	}
 ]
