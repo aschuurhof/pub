@@ -6,7 +6,7 @@
 "doubleclickUseExternalBrowser":"true",
 "doubleClickStaticAdIsCoppaCompliant":true,
 "doubleclickAdSize":"300x50",
-"doubleclickIsDfp":"true",
+"doubleclickIsDfp":"false",
 "doubleclickDfpData":
 {
     "metadata": {
