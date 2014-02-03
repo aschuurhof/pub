@@ -1,12 +1,12 @@
 [
 {
-"doubleclickEnabled":"true",
+"doubleclickEnabled":true,
 "doubleClickStaticAdAppId":"android_test_app",
 "doubleclickKeyValues":"",
-"doubleclickUseExternalBrowser":"true",
+"doubleclickUseExternalBrowser":true,
 "doubleClickStaticAdIsCoppaCompliant":true,
 "doubleclickAdSize":"300x50",
-"doubleclickIsDfp":"true",
+"doubleclickIsDfp":true,
 "doubleclickDfpData":
 {
     "metadata": {
