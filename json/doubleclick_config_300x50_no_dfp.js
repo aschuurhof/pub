@@ -3,8 +3,8 @@
 "doubleclickEnabled":true,
 "doubleClickStaticAdAppId":"android_test_app",
 "doubleclickKeyValues":"",
-"doubleclickUseExternalBrowser":true,
-"doubleClickStaticAdIsCoppaCompliant":true,
+"doubleclickUseExternalBrowser":false,
+"doubleClickStaticAdIsCoppaCompliant":false,
 "doubleclickAdSize":"300x50",
 "doubleclickIsDfp":false,
 "doubleclickDfpData":
