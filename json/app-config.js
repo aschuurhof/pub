@@ -2,7 +2,7 @@
 	{
 		"omnitureEnabled" : "true",
 		"omnitureSuite"   : "none",
-		"omnitureChannel" : "Bento TestRig Channel",
+		"omnitureChannel" : "none",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
