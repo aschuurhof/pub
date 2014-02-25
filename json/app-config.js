@@ -1,8 +1,8 @@
 [
 	{
 		"omnitureEnabled" : "true",
-		"omnitureSuite"   : "viarnd",
-		"omnitureChannel" : "Test Rig Channel",
+		"omnitureSuite"   : "none",
+		"omnitureChannel" : "none",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
