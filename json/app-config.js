@@ -1,8 +1,8 @@
 [
 	{
 		"omnitureEnabled" : "true",
-		"omnitureSuite"   : "none",
-		"omnitureChannel" : "none",
+		"omnitureSuite"   : "virnd",
+		"omnitureChannel" : "Test Rig Channel",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
@@ -11,6 +11,7 @@
 		"omnitureVisitorID" : "",
 		"omnitureDebugLogging" : "true",
 		"omnitureOfflineTrackingEnabled" : "true",
+		"omnitureOfflineHitLimit" : 1000,
 		"demdexEnabled" : "true",
 		"TVEEnabled" : "true",
 		"omnitureContextData" : {"v.dummyContext1":"1","v.dummyContext2":"2"}
