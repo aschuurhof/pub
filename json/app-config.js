@@ -1,7 +1,7 @@
 [
 	{
 		"omnitureEnabled" : "true",
-		"omnitureSuite"   : "virnd",
+		"omnitureSuite"   : "viarnd",
 		"omnitureChannel" : "Test Rig Channel",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USD",
