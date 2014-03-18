@@ -5,7 +5,7 @@
         "doubleclickKeyValues": "keyvalue=testkeyvalue;testkey=testvalue",
         "doubleclickUseExternalBrowser":false,
         "doubleClickStaticAdIsCoppaCompliant":true,
-        "doubleclickAdSize":"728x90",
+        "doubleclickAdSize":"300x250",
         "doubleclickIsDfp":true,
         "doubleclickDfpData":
         {
