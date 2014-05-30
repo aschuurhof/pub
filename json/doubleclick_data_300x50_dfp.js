@@ -8,7 +8,7 @@
 		"metadata" : {
 			"property" : "mtv_news",
 			"hub" : "breaking",
-			"is_main" : YES
+			"is_main" : true
 		},
 			"mappings" : {
 			"ad-unit" : {
