@@ -15,7 +15,7 @@
         "eVar74"    : "remote value of evar 74",
         "eVar111"    : "remote value of evar 111",
         "eVar300"    : "remote value of evar 300",
-        "contextData"   : {
+        "omnitureCcontextData"   : {
             "m.contextDataKey1"    : "testcontextvalue1",
             "contextDataKey2"    : "testcontextvalue2",
 	    	"v.contextDataKey3" : "testcontextvalue3"
