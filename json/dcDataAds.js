@@ -13,7 +13,7 @@
     "mappings": {
         "ad-unit": {
             "1": "@property",
-            "1": "@hub"
+            "2": "@hub"
         }
     }
 
