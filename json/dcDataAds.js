@@ -1,7 +1,7 @@
 [
 {
 "doubleclickKeyValues":"testmode=unilever_1447_300",
-"doubleclickAdSize":"300x50,300x250",
+"doubleclickAdSize":"320x50,300x50",
 "doubleclickIsDfp":true,
 "doubleclickDfpData":
 {
