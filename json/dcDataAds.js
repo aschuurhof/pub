@@ -6,7 +6,7 @@
 "doubleclickDfpData":
 {
     "metadata" : {
-        "property"  : "mtv.com",
+        "property"  : "nick",
         "is_main"   : false
     },
     "mappings" : {
