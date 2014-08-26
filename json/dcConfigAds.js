@@ -17,7 +17,7 @@
 		"omnitureContextData" : {"v.dummyContext1":"1","v.dummyContext2":"2"},
 		"omnitureTimetrackingEnabled" : "true",
 		"doubleclickEnabled":"true",
-		"doubleClickStaticAdAppId":"mtv.com",
+		"doubleClickStaticAdAppId":"btg_test_app",
 		"doubleclickUseExternalBrowser":true,
 		"doubleClickStaticAdIsCoppaCompliant":true,
 		"doubleClickAdIndicatorVisible":true,
