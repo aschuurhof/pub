@@ -1,5 +1,6 @@
 [
 	{
+        "testVariable" : "test",
 		"linkName" : "dev/bento/link",
 		"pageName" : "dev/bento/remote/testrig",
 		"channel"  : "remote sandbox channel",
