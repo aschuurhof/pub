@@ -1,35 +1,41 @@
 [
 	{
 		"config" : {
-			"isCoppaCompliant" : false,
-                         "audienceManagerEnabled": true
-
+			"isCoppaCompliant" : false
 		},
 		"adData" : {
 			"x" : 0,
 			"y"   : 0,
 			"width" : 300,
-			"height" : 50,
+			"height" : 250,
 			"appName" : "btg_test_app",
 			"sections" : "",
 			"isDFP" : false,
 			"enableCloseButton" : true,
 			"closeButtonInterval" : 5,
-			"isRefreshable" : true,
-			"alternativeSizes" : [
-					{
-					"adWidth" : 300,
-					"adHeight" : 50
-					}
-			],
+			"isRefreshable" : false,
+			"refreshInterval" : 10,
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmodePrefix" : "medialets_mraid"
+				"testmode" : "adcade_cert_test_300x250"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
 			},
+			"dfpData" : {
+				"metadata" : {
+					"property" : "mtv_news",
+					"hub" : "breaking",
+					"is_main" : true
+				},
+				"mappings" : {
+					"ad-unit" : {
+						"1" : "@property",
+						"2" : "@hub"
+					}
+				}		        	
+			}
 		}
 	}
 ]
