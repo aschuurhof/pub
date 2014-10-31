@@ -8,7 +8,7 @@
 			"y"   : 0,
 			"width" : 300,
 			"height" : 250,
-			"appName" : "android_test_app",
+			"appName" : "btg_test_app",
 			"sections" : "",
 			"isDFP" : false,
 			"enableCloseButton" : true,
