@@ -3,6 +3,7 @@
 "doubleclickKeyValues":"testmode=unilever_1447_300",
 "doubleclickAdSize":"320x250",
 "doubleclickIsDfp":false,
+"doubleclickStaticPixelSize": "300x250",
 "doubleclickDfpData":
 {
     "metadata" : {
