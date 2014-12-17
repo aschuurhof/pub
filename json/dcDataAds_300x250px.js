@@ -3,7 +3,7 @@
 "doubleclickKeyValues":"",
 "doubleclickAdSize":"300x250",
 "doubleclickIsDfp":false,
-"doubleclickStaticPixelSize": "300x250",
+"doubleclickStaticPixelSize": "425x275",
 "doubleclickDfpData":
 {
     "metadata" : {
