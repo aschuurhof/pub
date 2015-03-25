@@ -6,14 +6,15 @@
 "doubleclickDfpData":
 {
     "metadata" : {
-        "property"  : "mtv",
+        "property"  : "nick",
         "is_main"   : false
     },
     "mappings" : {
         "ad-unit" : {
             "1" : "@property",
             "2" : "shows",
-            "3" : "teen_mom_2",
+            "3" : "victorious",
+            "4" : "home"
         }
     }
 
